@@ -1,3 +1,5 @@
+	// Loves Me, Love's Me Not game implementation using Go programming languager
+
 package main
 
 import (
